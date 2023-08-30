@@ -13,6 +13,7 @@
 		AC6EB0092A9F69840032DBA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6EB0072A9F69840032DBA7 /* Main.storyboard */; };
 		AC6EB00B2A9F69850032DBA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC6EB00A2A9F69850032DBA7 /* Assets.xcassets */; };
 		AC6EB00E2A9F69850032DBA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6EB00C2A9F69850032DBA7 /* LaunchScreen.storyboard */; };
+		AC6EB0182A9F72040032DBA7 /* LessonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6EB0172A9F72040032DBA7 /* LessonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC6EB00A2A9F69850032DBA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC6EB00D2A9F69850032DBA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC6EB00F2A9F69850032DBA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC6EB0172A9F72040032DBA7 /* LessonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AC6EB0012A9F69840032DBA7 /* AppDelegate.swift */,
 				AC6EB0032A9F69840032DBA7 /* SceneDelegate.swift */,
 				AC6EB0052A9F69840032DBA7 /* ViewController.swift */,
+				AC6EB0172A9F72040032DBA7 /* LessonViewController.swift */,
 				AC6EB0072A9F69840032DBA7 /* Main.storyboard */,
 				AC6EB00A2A9F69850032DBA7 /* Assets.xcassets */,
 				AC6EB00C2A9F69850032DBA7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC6EB0182A9F72040032DBA7 /* LessonViewController.swift in Sources */,
 				AC6EB0062A9F69840032DBA7 /* ViewController.swift in Sources */,
 				AC6EB0022A9F69840032DBA7 /* AppDelegate.swift in Sources */,
 				AC6EB0042A9F69840032DBA7 /* SceneDelegate.swift in Sources */,
